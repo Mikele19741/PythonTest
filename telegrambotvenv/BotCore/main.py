@@ -1,7 +1,7 @@
 from telegram import   InlineKeyboardButton, Update, InlineKeyboardMarkup
 from telegram.ext import  ApplicationBuilder, ConversationHandler,CommandHandler, ContextTypes, CallbackQueryHandler
 import bot
-TELEGRAM_BOT_TOKEN='6842381887:AAExB3jeduS7RNVkXX9mSXWAAfSeWLogMjw'
+TELEGRAM_BOT_TOKEN=''
 TELEGRAM_URL='t.me/test_solutions_bot'
 def main():
    
